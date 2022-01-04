@@ -1,4 +1,4 @@
-# Kickstarter_Analysis
+# Kickstarter_Analysis - Mod1 Challenge
 Analysis of Kickstarter fund raising data
 UofM Data Visualization and Data Analitics Bootcamp
 Module 1 Assignment
